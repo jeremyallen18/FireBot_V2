@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-01-02T20:37:51.237622",
+    "confidence": 8585.125803947449,
+    "duration": 3.097975254058838,
+    "alarm_triggered": false,
+    "manual_silence": false,
+    "image_path": "detecciones/fire_20260102_203751.jpg",
+    "latitude": 19.432608,
+    "longitude": -99.133209,
+    "location_name": "Salon de Ingenieria en sistemas"
+  },
+  {
+    "timestamp": "2026-01-02T20:46:33.201575",
+    "confidence": 7268.322706222534,
+    "duration": 3.029217004776001,
+    "alarm_triggered": true,
+    "manual_silence": false,
+    "image_path": "detecciones/fire_20260102_204633.jpg",
+    "latitude": 19.432608,
+    "longitude": -99.133209,
+    "location_name": "Salon de Ingenieria en sistemas"
+  },
+  {
+    "timestamp": "2026-01-02T20:48:29.140464",
+    "confidence": 9133.139848709106,
+    "duration": 3.001417875289917,
+    "alarm_triggered": true,
+    "manual_silence": false,
+    "image_path": "detecciones/fire_20260102_204829.jpg",
+    "latitude": 19.432608,
+    "longitude": -99.133209,
+    "location_name": "Salon de Ingenieria en sistemas"
+  }
+]
